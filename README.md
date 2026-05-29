@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=SURYA%20K&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Platform%20%26%20Data%20Engineer%20%7C%20Distributed%20Systems%20%7C%20PySpark&amp;descAlignY=62&amp;descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=SURYA%20K&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Platform%20%26amp%3B%20Data%20Engineer%20%7C%20Distributed%20Systems%20%7C%20PySpark&amp;descAlignY=62&amp;descSize=16" width="100%"/>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=28&amp;duration=3000&amp;pause=1000&amp;color=70A5FD&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Building+Scalable+Data+Platforms;Crafting+High-Availability+ETL+Pipelines;Designing+Distributed+Systems;Turning+Data+Into+Impact" alt="Typing SVG" />
