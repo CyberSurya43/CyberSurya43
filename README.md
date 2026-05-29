@@ -4,36 +4,48 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Building+Scalable+Data+Platforms;Crafting+High-Availability+ETL+Pipelines;Designing+Distributed+Systems;Turning+Data+Into+Impact" alt="Typing SVG" />
 </div>
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<table>
+<tr>
+<td valign="top" width="55%">
 
 ```python
 class DataEngineer:
     def __init__(self):
-        self.name = "Surya K"
-        self.location = "Coimbatore, India"
-        self.degree = "B.E. Electronics & Communication Engineering"
-        self.email = "suryakottiappasamy@gmail.com"
-        self.cgpa = 8.36
-        
+        self.name        = "Surya K"
+        self.location    = "Coimbatore, India"
+        self.degree      = "B.E. ECE"
+        self.email       = "suryakottiappasamy@gmail.com"
+        self.cgpa        = 8.36
+
     def current_stack(self):
         return {
-            "languages": ["Python", "SQL", "Java"],
-            "backends": ["Flask", "REST APIs"],
-            "data_tools": ["PySpark", "AWS Glue", "Pandas"],
-            "databases": ["PostgreSQL", "MongoDB", "DynamoDB", "Redis"],
-            "platforms": ["AWS", "Azure"],
-            "ml_ai": ["LangChain", "LangGraph", "FAISS", "Scikit-learn"]
+            "languages"  : ["Python", "SQL", "Java"],
+            "backends"   : ["Flask", "REST APIs"],
+            "data_tools" : ["PySpark", "AWS Glue", "Pandas"],
+            "databases"  : ["PostgreSQL", "MongoDB",
+                            "DynamoDB", "Redis"],
+            "platforms"  : ["AWS", "Azure"],
+            "ml_ai"      : ["LangChain", "LangGraph",
+                            "FAISS", "Scikit-learn"]
         }
-    
+
     def currently_learning(self):
-        return ["Advanced Distributed Systems", "ML Orchestration", "Real-time Streaming"]
-    
+        return ["Distributed Systems", "ML Orchestration",
+                "Real-time Streaming"]
+
     def fun_fact(self):
-        return "I love building systems that scale gracefully—think of it like growing a garden where every plant thrives! 🌱"
-    
+        return "I build systems that scale like gardens 🌱"
+
     def motto(self):
-        return "Platform-first thinking, production-ready code, data that compounds in value."
+        return "Platform-first. Production-ready. Data compounds."
 ```
+
+</td>
+<td valign="top" width="45%" align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="340" alt="coding gif"/>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -72,15 +84,15 @@ class DataEngineer:
 
 <div align="center">
   
-[![Surya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=suryakottiappasamy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10)](https://github.com/suryakottiappasamy)
+[![Surya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CyberSurya43&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10)](https://github.com/CyberSurya43)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suryakottiappasamy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10)](https://github.com/suryakottiappasamy)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberSurya43&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10)](https://github.com/CyberSurya43)
 
 </div>
 
 <div align="center">
   
-![GitHub Streak](https://streak-stats.demolab.com?user=suryakottiappasamy&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)
+![GitHub Streak](https://streak-stats.demolab.com?user=CyberSurya43&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)
 
 </div>
 
@@ -88,13 +100,13 @@ class DataEngineer:
 
 ## 🔥 Activity Graph
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=suryakottiappasamy&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/suryakottiappasamy)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CyberSurya43&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/CyberSurya43)
 
 ---
 
 ## 🏆 Achievements & Trophies
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=suryakottiappasamy&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/suryakottiappasamy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=CyberSurya43&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/CyberSurya43)
 
 ---
 
@@ -180,8 +192,8 @@ class DataEngineer:
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suryakottiappasamy@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suryakottiappasamy)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/suryakottiappasamy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/surya-k)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CyberSurya43)
 [![Phone](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/916369010462)
 
 </div>
