@@ -4,9 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=28&amp;duration=3000&amp;pause=1000&amp;color=70A5FD&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Building+Scalable+Data+Platforms;Crafting+High-Availability+ETL+Pipelines;Designing+Distributed+Systems;Turning+Data+Into+Impact" alt="Typing SVG" />
 </div>
 
-<table>
-<tr>
-<td valign="top" width="55%">
+<div align="center"><img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="420" alt="coding gif"/></div>
 
 ```python
 class DataEngineer:
@@ -22,16 +20,13 @@ class DataEngineer:
             "languages"  : ["Python", "SQL", "Java"],
             "backends"   : ["Flask", "REST APIs"],
             "data_tools" : ["PySpark", "AWS Glue", "Pandas"],
-            "databases"  : ["PostgreSQL", "MongoDB",
-                            "DynamoDB", "Redis"],
+            "databases"  : ["PostgreSQL", "MongoDB", "DynamoDB", "Redis"],
             "platforms"  : ["AWS", "Azure"],
-            "ml_ai"      : ["LangChain", "LangGraph",
-                            "FAISS", "Scikit-learn"]
+            "ml_ai"      : ["LangChain", "LangGraph", "FAISS", "Scikit-learn"],
         }
 
     def currently_learning(self):
-        return ["Distributed Systems", "ML Orchestration",
-                "Real-time Streaming"]
+        return ["Distributed Systems", "ML Orchestration", "Real-time Streaming"]
 
     def fun_fact(self):
         return "I build systems that scale like gardens 🌱"
@@ -39,13 +34,6 @@ class DataEngineer:
     def motto(self):
         return "Platform-first. Production-ready. Data compounds."
 ```
-
-</td>
-<td valign="top" width="45%" align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="340" alt="coding gif"/>
-</td>
-</tr>
-</table>
 
 ---
 
@@ -113,7 +101,7 @@ class DataEngineer:
 ## 💼 Work Experience
 
 <details>
-<summary><b>Application Developer (Platform & Data Engineering)</b> — Divum Corporate and Services | Aug 2024 – Present</summary>
+<summary><b>Application Developer (Platform &amp; Data Engineering)</b> — Divum Corporate and Services | Aug 2024 – Present</summary>
 
 > **Python** • **PySpark** • **AWS Glue** • **PostgreSQL** • **Flask** • **Redis** • **LangChain** • **LangGraph**
 
