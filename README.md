@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SURYA%20K&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Platform%20%26%20Data%20Engineer%20%7C%20Distributed%20Systems%20%7C%20PySpark&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=SURYA%20K&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Platform%20%26%20Data%20Engineer%20%7C%20Distributed%20Systems%20%7C%20PySpark&amp;descAlignY=62&amp;descSize=16" width="100%"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Building+Scalable+Data+Platforms;Crafting+High-Availability+ETL+Pipelines;Designing+Distributed+Systems;Turning+Data+Into+Impact" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=28&amp;duration=3000&amp;pause=1000&amp;color=70A5FD&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Building+Scalable+Data+Platforms;Crafting+High-Availability+ETL+Pipelines;Designing+Distributed+Systems;Turning+Data+Into+Impact" alt="Typing SVG" />
 </div>
 
 <table>
@@ -200,4 +200,4 @@ class DataEngineer:
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer&amp;animation=twinkling" width="100%"/>
